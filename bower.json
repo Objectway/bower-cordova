@@ -1,9 +1,9 @@
 {
   "name": "cordova",
-  "version": "3.3.0",
+  "version": "6.0.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mgcrea/bower-cordova.git"
+    "url": "git://github.com/Objectway/bower-cordova.git"
   },
   "ignore": [
     "**/.*",
