@@ -1,9 +1,9 @@
 {
-  "name": "cordova",
-  "version": "6.0.0",
+  "name": "ow-cordova",
+  "version": "6.0.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Objectway/bower-cordova.git"
+    "url": "git://github.com/Objectway/ow-cordova.git"
   },
   "ignore": [
     "**/.*",
