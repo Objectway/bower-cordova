@@ -1,6 +1,7 @@
 {
   "name": "ow-cordova",
   "version": "6.0.3",
+  "main":"",
   "ignore": [
     "**/.*",
     "node_modules",
